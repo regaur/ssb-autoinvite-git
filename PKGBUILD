@@ -1,7 +1,7 @@
 # Maintainer: Jan Boelsche <jan@lagomorph.de>
 
 pkgname=ssb-autoinvite-git
-pkgver=1.1.0.r5.8f1ab59
+pkgver=1.1.1.r7.73a7696
 pkgrel=1
 pkgdesc="This sbot plugin automatically uses an invite code specified in the config"
 arch=('any')
